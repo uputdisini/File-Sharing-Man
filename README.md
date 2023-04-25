@@ -26,7 +26,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+[![Deploy](
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/uputdisini/File-Sharing-Man"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>)](https://risman.vercel.app/file-deploy.html)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
